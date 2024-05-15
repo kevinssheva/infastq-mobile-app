@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "infastq-mobile-app",
-    "slug": "infastq-mobile-app",
+    "name": "Infastq",
+    "slug": "infastq",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "infastq",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
